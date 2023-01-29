@@ -1,0 +1,125 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.MN-cosmetology {
+    background-color: #4FBFA5;
+    color: white;
+    padding: 24px 180px 0 180px;
+        
+}
+
+.MN-cosmetology__items {
+height: 631px;
+}
+.MN-cosmetology__header {
+    display: flex;
+    width: 970px;
+    gap: 65px;
+    height: 27px;
+    margin: 0 auto 24px auto;
+
+}
+
+.MN-cosmetology__header p {
+font-size: 14px;
+font-weight: 500;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.MN-cosmetology__header button {
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+    border: none;
+    padding: 10px 15px;
+}
+
+.MN-cosmetology__content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.MN-cosmetology__leftitems {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 416px;
+height: 266px;
+}
+.MN-cosmetology__title {
+font-size: 48px;
+font-weight: 700;
+line-height: 72px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.MN-cosmetology__subtitle {
+font-size: 14px;
+font-weight: 500;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.MN-cosmetology__leftitems button {
+    text-transform: uppercase;
+    padding: 12px 22px;
+    border: none;
+    background-color: #00868A;
+    color: white;
+}
+.MN-cosmetology__arrows {
+    width: max-content;
+    display: flex;
+    position: relative;
+    left: 35%;
+    bottom: 175px;
+    z-index: 1;
+
+}
+.MN-cosmetology__arrows img {
+    border: 1px solid white;
+    padding: 18px 12px;
+    
+}
+
+.MN-cosmetology__rightimg {
+    display: flex;
+    justify-content: flex-end;
+    width: 800px;
+    height: 500px;
+    
+}
+.MN-cosmetology__rightimg img {
+    width: 75%;
+  
+}
+.MN-cosmetology__footer {
+    display: flex;
+    align-items: center;
+}
+
+.MN-cosmetology__footer p {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 25%;
+    text-align: center;
+}
+
+.MN-cosmetology__footer p:first-child {
+    width: 50%;
+    text-align: center;
+}
+
+.MN-cosmetology__footer p:nth-child(odd) {
+    background-color: #00868A; 
+}
