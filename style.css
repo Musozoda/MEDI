@@ -6,14 +6,15 @@
 
 .Bobomullo{
     background-color: #ffffff;;
-    width: 100%;
+    margin: 50px auto;
+    width: 90%;
 }
 .i-left{
     background-color: #00868A;
     width: 526px;
     height: 580px;
    
-    margin-left: 200px;
+    
 }
 .ii{
     margin-top: 20px;
@@ -118,7 +119,6 @@ line-height: 21px;
 
 }
 .i-left1{
-    margin-left: 200px;
     width: 526px;
 height: 504px;
 left: 312px;
@@ -272,11 +272,10 @@ font-weight: 600;
 font-size: 28px;
 line-height: 150%;
 /* or 42px */
-position: ;
 z-index: 2;
 color: #000000;
 }
-=======
+
 * {
   padding: 0;
   margin: 0;
