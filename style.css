@@ -276,3 +276,301 @@ position: ;
 z-index: 2;
 color: #000000;
 }
+=======
+* {
+  padding: 0;
+  margin: 0;
+}
+.MN-cosmetology {
+  background-color: #4fbfa5;
+  color: white;
+  padding: 24px 180px 0 180px;
+}
+
+.MN-cosmetology__items {
+  height: 631px;
+}
+.MN-cosmetology__header {
+  display: flex;
+  width: 970px;
+  gap: 65px;
+  height: 27px;
+  margin: 0 auto 24px auto;
+}
+
+.MN-cosmetology__header p {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.MN-cosmetology__header button {
+  display: flex;
+  align-items: center;
+  margin-left: 25px;
+  border: none;
+  padding: 5 15px;
+}
+
+.MN-cosmetology__content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.MN-cosmetology__leftitems {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 416px;
+  height: 266px;
+}
+.MN-cosmetology__title {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 72px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.MN-cosmetology__subtitle {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.MN-cosmetology__leftitems button {
+  text-transform: uppercase;
+  padding: 12px 22px;
+  border: none;
+  background-color: #00868a;
+  color: white;
+}
+.MN-cosmetology__arrows {
+  width: max-content;
+  display: flex;
+  position: relative;
+  left: 35%;
+  bottom: 175px;
+  z-index: 1;
+}
+.MN-cosmetology__arrows img {
+  border: 1px solid white;
+  padding: 18px 12px;
+}
+
+.MN-cosmetology__rightimg {
+  display: flex;
+  justify-content: flex-end;
+  width: 800px;
+  height: 500px;
+}
+.MN-cosmetology__rightimg img {
+  width: 75%;
+}
+.MN-cosmetology__footer {
+  display: flex;
+  align-items: center;
+}
+
+.MN-cosmetology__footer p {
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 25%;
+  text-align: center;
+}
+
+.MN-cosmetology__footer p:first-child {
+  width: 50%;
+  text-align: center;
+}
+
+.MN-cosmetology__footer p:nth-child(odd) {
+  background-color: #00868a;
+}
+/* Khurshed Part Start */
+/* Offers section start -RK */
+.RK-offers {
+  width: 100%;
+  height: 556px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  margin-bottom: 100px;
+}
+.RK-top-offers {
+  width: 67.5%;
+  height: 212px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.RK-top-offers-txt {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 150%;
+  text-align: center;
+  color: #00868a;
+}
+.RK-bottom-offers {
+  width: 67.5%;
+  height: 344px;
+  display: flex;
+ gap:24px;
+}
+.RK-bottom-offers-box {
+  width: 306px;
+  height: 344px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  position: relative;
+}
+.RK-txt-on-img {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 148px;
+  height: 40px;
+  background: #4fbfa5;
+  position: absolute;
+  top: 31px;
+  left: 30px;
+}
+.RK-box-bot {
+  width: 306px;
+  height: 114px;
+  background: #00868a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.RK-box-bot-txt {
+  width: 181px;
+  height: 64px;
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 150%;
+  color: #ffffff;
+  text-align: left;
+}
+
+/* Footer Section */
+
+.RK-footer {
+  width: 63.96%;
+  height: 392px;
+  display: flex;
+  flex-direction: row;
+  margin-left: 16.25%;
+}
+.RK-footer-offers {
+  width: 990px;
+  height: 392px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.RK-footer-offers-sec {
+  display: flex;
+  flex-direction: row;
+  gap: 191px;
+}
+.RK-footer-offers-box {
+  width: 158px;
+  height: 181px;
+  text-align: left;
+ }
+.offer-txt {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 150%;
+  color: #000000;
+  margin-bottom: 5px;
+}
+.offer-sub-txt {
+  margin-top: 15px;
+}
+.offer-sub-txt a {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 150%;
+  text-decoration: none;
+  color: #000000;
+}
+.RK-footer-contacts {
+  width: 238px;
+  height: 357px;
+  margin-top: 11px;
+}
+.RK-grey-txt {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 150%;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.RK-blc-txt {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 150%;
+  color: #000000;
+}
+.RK-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 164px;
+  height: 45px;
+  background: #00868a;
+  cursor: pointer;
+  border: none;
+}
+.RK-button a {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-decoration: none;
+  cursor: pointer;
+}
+.RK-mg-30 {
+  margin-bottom: 30px;
+}
+.RK-mg-15 {
+  margin-bottom: 15px;
+}
+/* Khurshed Part End */
