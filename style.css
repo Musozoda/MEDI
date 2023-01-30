@@ -491,7 +491,7 @@ color: #000000;
 .RK-footer-offers {
   width: 990px;
   height: 392px;
-  
+  margin-left: -100px;
   display: flex;
   flex-direction: column;
   gap: 30px;
@@ -528,6 +528,8 @@ color: #000000;
   color: #000000;
 }
 .RK-footer-contacts {
+
+  margin-left: 200px;
   width: 238px;
   height: 357px;
   margin-top: 11px;
