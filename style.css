@@ -1,0 +1,278 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+
+.Bobomullo{
+    background-color: #ffffff;;
+    width: 100%;
+}
+.i-left{
+    background-color: #00868A;
+    width: 526px;
+    height: 580px;
+   
+    margin-left: 200px;
+}
+.ii{
+    margin-top: 20px;
+}
+.i-left button{
+    background-color:  #4FBFA5;
+    color: white;
+    margin-left: 40px;
+    margin-top: 35px;
+    border: none;
+    padding: 15px;
+    width: 160px;
+    font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+
+}
+.i-left2{
+    width: 485px;
+height: 175px;
+left: 352px;
+top: 975px;
+margin-left: 40px;
+margin-top: 30px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 150%;
+color: #FFFFFF;
+}
+.i-left span{
+    width: 100px;
+height: 24px;
+
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+margin-left: 15px;
+
+
+color: #FFFFFF;
+
+}
+.i-left img{
+    margin-top: 26.3px;
+}
+.i-ll{
+    margin-left: 40px;
+    margin-top: -40px;
+}
+.i-flax{
+    display: flex;
+    background-color: white;
+    
+    gap: 134px;
+}
+.i-right button{
+    background-color:  #4FBFA5;
+    color: white;
+    margin-left: 40px;
+    margin-top: 35px;
+    border: none;
+    padding: 15px;
+    width: 160px;
+    font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+width: 200px;
+height: 50px;
+}
+.i-left1 button{
+    background-color:#00868A;
+    color: white;
+    margin-left: 40px;
+    margin-top: 35px;
+    border: none;
+    padding: 15px;
+    width: 160px;
+    font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+
+}
+.i-flax2{
+    display: flex;
+    background-color: white;
+    margin-top: 80px;
+
+}
+.i-left1{
+    margin-left: 200px;
+    width: 526px;
+height: 504px;
+left: 312px;
+top: 1530px;
+
+/* accent-2 */
+
+background: #4FBFA5;
+}
+.i-w{
+    background-color: #00868A;
+    height: 150px;
+    margin-top: 30px;
+
+
+}
+.i-w p{
+    padding-top: 30px;
+}
+.i-left1 p{
+    width: 446px;
+height: 54px;
+left: 352px;
+top: 1821px;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+margin-top: 40px;
+margin-left: 40px;
+color: #FFFFFF;
+
+}
+.pp  {
+    width: 650px;
+    height: 72px;
+    left: 898px;
+    top: 1565px;
+    margin-top: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 150%;
+    /* or 36px */
+    
+    margin-left: 60px;
+    color: #000000;
+    
+}
+.i-right4 {
+    background: #ebf6f7;
+    width: 770px;
+
+}
+.ppo{
+    width: 629px;
+height: 294px;
+left: 919px;
+top: 1662px;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+
+
+color: #000000;
+margin-left: 80px;
+margin-top: 25px;
+}
+.abso{
+    position: absolute;
+    margin-left: 320px;
+margin-top: 25px;
+}
+.i-num{
+    display: flex   ;
+    gap: 10px;
+}
+.i-num2{
+    display: flex;
+}
+.i-man{
+    width: 50px;
+height: 72px;
+left: 972px;
+top: 975px;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 150%;
+/* identical to box height, or 72px */
+
+
+color: #000000;
+}
+.i-man2{
+    width: 111px;
+height: 144px;
+left: 972px;
+top: 1154px;
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 96px;
+line-height: 150%;
+/* identical to box height, or 144px */
+
+
+/* accent-1 */
+
+color: #00868A;
+
+}
+.tu{
+    width: 144px;
+height: 42px;
+left: 1042px;
+top: 990px;
+opacity: 0.5;
+margin-top: 12px;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+
+
+color: #000000;
+}
+.tu2{
+    width: 359px;
+height: 84px;
+left: 1113px;
+top: 1184px;
+margin-top: 20px;
+margin-left: 15px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 150%;
+/* or 42px */
+position: ;
+z-index: 2;
+color: #000000;
+}
