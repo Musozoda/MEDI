@@ -3,6 +3,14 @@
     padding: 0;
 }
 
+.qmcont1{
+  display: flex;
+  justify-content: center;
+}
+.qmcont2{
+  display: flex;
+  justify-content: center;
+}
 
 .Bobomullo{
     background-color: #ffffff;;
